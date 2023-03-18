@@ -1,0 +1,18 @@
+.jp-MarkdownOutput {
+    direction: rtl;
+    text-align: right;
+    font-family: 'Vazir', 'B Nazanin', 'B Lotus', 'Arial', 'Verdana'
+}
+.jp-* {
+    direction: rtl;
+    text-align: right;
+    font-family: 'Vazir', 'B Nazanin', 'B Lotus', 'Arial', 'Verdana'
+}
+
+h3, h4, h5 {
+    padding: 0px;
+    margin: 0px;
+}
+div, span {
+    font-size: 14px;
+}
